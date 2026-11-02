@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - November 2, 2026
-summary: This Atlas edit proposal 1) adds temporary Capital Ratio requirements, 2) clarifies Morpho vault deployment verification responsibility and timing, 3) updates the Osero Gauntlet Instance parameters, 4) removes the planning and review documents from the Distribution Reward and Integration Boost Invocation protocols, 5) records the September 24, 2026 grant transfers for Spark And Grove, 6) records the Osero Gauntlet Vault Timelocks and Force-Deallocate penalty, 7) makes housekeeping updates.
+summary: This Atlas edit proposal 1) adds Temporary Capital Ratio requirements, 2) clarifies Morpho vault deployment verification responsibility and timing, 3) updates the Osero Gauntlet Instance parameters, 4) removes the planning and review documents from the Distribution Reward and Integration Boost Invocation protocols, 5) records the September 24, 2026 grant transfers for Spark and Grove, 6) records the Osero Gauntlet Vault Timelocks and Force-Deallocate penalty, 7) makes housekeeping updates.
 discussion_link: https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-11-02/28368
 parameters:
     input_format:
